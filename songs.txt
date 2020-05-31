@@ -1,0 +1,2 @@
+playlist/song.mp3
+playlist/song2.mp3
