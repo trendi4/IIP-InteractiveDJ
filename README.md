@@ -31,3 +31,14 @@ Hold two fingers in a V shape.
 ### Volume down
 
 Make an ok sign.
+
+## Notes
+Some samples from the training data used can be found in traing_data_samples. For every gesture around 50 images were used for training. While I tried to do as many different poses, the abckground is still the same, so you might not get that good of a result when you are trying it in a different environment (I don't too when I do it outside my working desk). This is just a prototype and I am trying to show what this product can be used for, not the capabilities of YOLO.
+
+### How do you get the weights used for detection? Can I train my own weights for something different?
+
+I used darknet, a framework created by the authors of YOLO which can be found here: /github.com/AlexeyAB/darknet. I suggest using Google Colab for training, as it increases training speed by a lot. 
+
+### Questions?
+
+My email: e.selmanaj@student.tue.nl
