@@ -7,8 +7,27 @@ An interactive DJ product aimed to recreate how DJs play music
 ## Installation
 Clone this repository. Donwoload yolo-obj_final.weights (https://drive.google.com/file/d/1ZNAcg0t_hCi4tCCKAQsElsv4odEwSqLU/view?usp=sharing) and place it in the same directory as play.py. 
 
-## Usage
 Use the script with the following command:
 ```
 python play.py
 ```
+## Gestures
+
+### Play/Resume 
+
+Hold one open palm.
+
+### Pause 
+
+Hold two closed fists. (You won't be able to puase for 3 seconds after this.)
+
+### Next song
+
+Hold two open fists
+
+### Volume up
+Hold two fingers in a V shape.
+
+### Volume down
+
+Make an ok sign.
