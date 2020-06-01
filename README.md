@@ -4,7 +4,7 @@ An interactive DJ product aimed to recreate how DJs play music.
 ## Requirements 
 * **OpenCV >= 2.4**: use your preferred package manager (brew, apt), build from source using [vcpkg](https://github.com/Microsoft/vcpkg) or download from [OpenCV official site](https://opencv.org/releases.html) (on Windows set system variable `OpenCV_DIR` = `C:\opencv\build` - where are the `include` and `x64` folders [image](https://user-images.githubusercontent.com/4096485/53249516-5130f480-36c9-11e9-8238-a6e82e48c6f2.png))
 
-* **VLC-python**: To install use the script with the following command:
+* **VLC-python**: to install use the script with the following command:
 ```
 pip install python-vlc
 ```
